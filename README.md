@@ -14,8 +14,8 @@ As seen in the dataframe below, pyber_summary_df shows that there are more drive
 
 ## Summary
 After analyzing the data of the different city types and their variables therein (total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type) we have determined the following:
-    * while urban cities having the highest demand, advertising in these areas would potentially be the most effective.
-    * Rural cities charge the highest average fare, but generate the least amount of revenue. Pyber should consider not priortizing rural cities for expansion.
-    * All cities saw a spike of revenue towards the end of February
-    * Urban cities only had enough rides for 67% of drivers to get 1 ride. Would be recommended to cut drivers to maximize porifts
+    - while urban cities having the highest demand, advertising in these areas would potentially be the most effective.
+    - Rural cities charge the highest average fare, but generate the least amount of revenue. Pyber should consider not priortizing rural cities for expansion.
+    - All cities saw a spike of revenue towards the end of February
+    - Urban cities only had enough rides for 67% of drivers to get 1 ride. Would be recommended to cut drivers to maximize porifts
 ![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
