@@ -9,7 +9,7 @@ Deliverable 2: A multiple-line chart of total fares for each city type
 Deliverable 3: A written report for the PyBer analysis (README.md)
 ## Results
 As seen in the dataframe below, pyber_summary_df shows that there are more drivers in the urban cities than both suburban and rural combined.Also Urban cities also generated more in fares than suburban and rural combined. Lastly, Urban cities had the lowest average fare per ride at $24.53.
-![pyber_summary_df](pyber_summary_df.png)
+![pyber_summary_df](pyber_summary_df.PNG)
 
 
 ## Summary
